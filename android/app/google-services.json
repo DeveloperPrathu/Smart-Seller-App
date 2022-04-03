@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772796977949",
+    "project_id": "mysmartstore-b2ceb",
+    "storage_bucket": "mysmartstore-b2ceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772796977949:android:250b1b24e72ff7b25747f4",
+        "android_client_info": {
+          "package_name": "com.example.my_smartstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772796977949-dmc1visgqtf6gpd02jt4gfcsaa3dkpg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmoJaWuhOIUJjSFy12uO1K67EmQEkzpxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772796977949-dmc1visgqtf6gpd02jt4gfcsaa3dkpg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
