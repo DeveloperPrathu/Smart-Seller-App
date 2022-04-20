@@ -1,6 +1,6 @@
-# my_smartstore
+# Smart Seller
 
-Developed by TCODE STUDIO
+Developed by Prathu Gupta
 
 
 
